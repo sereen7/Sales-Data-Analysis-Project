@@ -2,6 +2,8 @@
 An interactive sales performance dashboard built using Microsoft Excel.
 
 ---
+## 📊 Dashboard
+![Dashboard](images/Screenshot.png)
 
 ## Project Overview
 This project is an advanced Excel-based dashboard designed to analyze sales data and transform raw datasets into meaningful and actionable insights. It helps in understanding product performance, regional sales distribution, and overall business performance to support data-driven decision making.
